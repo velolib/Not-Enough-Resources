@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 89001}, "model": "item/iron_sword/ghostsword" },
+		{ "predicate": { "custom_model_data": 89002}, "model": "item/iron_sword/wickedstaff" }
+	]
+}

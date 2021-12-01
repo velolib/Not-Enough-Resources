@@ -1,0 +1,28 @@
+/// Items
+
+// Carrot on a Sticks
+727269: Parcourse Restart
+
+// Warped Fungus on a Sticks
+85001: Teleport to Checkpoint
+
+// Diamond Swords
+86001: Turtle Sword (Carapace)
+86002: Ender Sword (Finisher)
+86003: Human Sword (Perseverance)
+
+// Iron Axes
+87001: Illager Axe (The Robber)
+
+// Netherite Axes
+88001: Piglin Hammer (Netherite Hammer)
+
+// Iron Swords
+89001: Ghost Sword (Phantasm)
+
+
+
+/// Armor
+
+// Ender Armor (Optifine/CIT Resewn)
+Display Name: Ender [Chestplate/Leggings/Boots]
